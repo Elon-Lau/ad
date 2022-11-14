@@ -104,7 +104,7 @@ body {
 
 .jumbotron .container {
   position: relative;
-  top: 80px;
+  top: 10px;
 }
 
 .jumbotron h2 {
@@ -118,7 +118,7 @@ body {
 }
 
 .jumbotron .btn {
-  margin: 30px 0 0;
+  margin: 10px 0 0;
   float: right; 
 }
 
