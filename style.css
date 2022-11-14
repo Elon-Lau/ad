@@ -99,12 +99,12 @@ body {
 .jumbotron {
   background: url(images/RTB.jpg) center center;
   background-size: cover;
-  height: 80px; 
+  height: 800px; 
 }
 
 .jumbotron .container {
   position: relative;
-  top: 10px;
+  top: 100px;
 }
 
 .jumbotron h2 {
@@ -118,7 +118,7 @@ body {
 }
 
 .jumbotron .btn {
-  margin: 10px 0 0;
+  margin: 100px 0 0;
   float: right; 
 }
 
