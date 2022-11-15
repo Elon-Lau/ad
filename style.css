@@ -99,7 +99,8 @@ body {
 .jumbotron {
   background: url(images/RTB.jpg) center center;
   background-size: cover;
-  height: 100px; 
+  height: 600px;
+  width: 50%;
 }
 
 .jumbotron .container {
